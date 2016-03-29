@@ -16,6 +16,7 @@ public class ketupat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // SUDAH DIEDIT
     }
     
 }
