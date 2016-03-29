@@ -1,0 +1,2 @@
+# faktorial
+PRAKTIKUM RPL JURNAL MOD 8
